@@ -1,0 +1,16 @@
+{
+  "name": "backendchatsocketio",
+  "version": "1.0.0",
+  "description": "Backend en node js para chat con express y socket io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hermes mateus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
